@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+}
+.sub-item{
+	font-family: sans-serif;
+}
+.titulo{
+	font-family: arial;
+	text-align: center;
+	background-color: #7FFF00;
+}
+.paragrafo-item{
+	font-family: verdana;
+	padding: 5px;
+	background-color: #AFEEEE;
+}
+.roda{
+	font-family: lucida console;
+	text-align: center;
+	padding: 10px;
+	background-color:#7FFF00; 
+}
+.nome{
+	font-size: 20px;
+}
